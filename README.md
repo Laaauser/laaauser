@@ -21,9 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-  <samp>&gt; Olá!, Eu sou o
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=264653&center=true&vCenter=true&width=150&height=30&lines=Leo" alt="Leo animado" />
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=264653&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+o+Leo" alt="Typing SVG" />
 </h3>
 
 <p align="center"> 
