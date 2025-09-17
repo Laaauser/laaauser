@@ -67,7 +67,7 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Java](https://img.shields.io/badge/Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)
+![Java](https://img.shields.io/badge/Java-426b72?style=for-the-badge&labelColor=black&logo=java&logoColor=426b72)
 ![sql](https://img.shields.io/badge/-Sql-61DBFB?style=for-the-badge&labelColor=black&logo=sql&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
