@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=264653&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+o+Leo" alt="Olá! Eu sou o Leo animado" />
+  <img src="https://readme-typing-svg.demolab.com/?size=28&duration=2000&pause=500&color=264653&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Leo" alt="Olá! Eu sou o Leo animado" />
 </h3>
 
 <p align="center"> 
