@@ -53,8 +53,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Gosto de aprender sobre as coisas, estou sempre disposto a aprender. <br/><br/>
- ❤️ &emsp; Apaixonado peo tecnologia sempre estou buscando aprender sobre as novidades.<br/><br/>
+✌️ &emsp; <span style="color:#003B46;">Sou um polímata, sou curioso e gosto de saber desde o funcionamento de uma televisão a como pintar com tinta aquarela.</span> <br/><br/>
+ ❤️ &emsp; Apaixonado por tecnologia sempre estou buscando aprender sobre coisas da aréa.<br/><br/>
  📧 &emsp; Meu email: levonlemos@gmail.com<br/><br/>
 
 </p>
