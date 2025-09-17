@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá!, Eu sou o
-                <b><a target="_blank" href="https://alsiam.com">Leo</a></b>
+                <b>Leo</b>
         </samp>
 </h3>
 
