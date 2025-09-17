@@ -29,9 +29,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Leo"</a>
     <br>
-    「 Sou um estudante de programação curioso e sempre disposto a aprender 」
+    Sou um estudante de programação curioso e sempre disposto a aprender
     <br>
     <br>
   </samp>
