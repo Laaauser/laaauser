@@ -53,7 +53,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✌️ &emsp; <span style="color:#003B46;">Sou um polímata, sou curioso e gosto de saber desde o funcionamento de uma televisão a como pintar com tinta aquarela.</span> <br/><br/>
+✌️ &emsp; <font color="#264653">Sou um polímata, sou curioso e gosto de saber desde o funcionamento de uma televisão a como pintar com tinta aquarela.</span> <br/><br/>
  ❤️ &emsp; Apaixonado por tecnologia sempre estou buscando aprender sobre coisas da aréa.<br/><br/>
  📧 &emsp; Meu email: levonlemos@gmail.com<br/><br/>
 
