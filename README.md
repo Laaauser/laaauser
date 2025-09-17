@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=28&duration=2000&pause=500&color=264653&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Leo" alt="Olá! Eu sou o Leo animado" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=600&lines=Olá!+Eu+sou+o+Leo)](https://git.io/typing-svg)
 </h3>
 
 <p align="center"> 
