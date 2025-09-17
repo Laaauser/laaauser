@@ -68,8 +68,8 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Java](https://img.shields.io/badge/Java-426b72?style=for-the-badge&labelColor=black&logo=java&logoColor=426b72)
-![sql](https://img.shields.io/badge/-Sql-ff4b33?style=for-the-badge&labelColor=black&logo=sql&logoColor=ff4b33)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/-Sql-ff4b33?style=for-the-badge&labelColor=black&logo=sql&logoColor=ff4b33)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
