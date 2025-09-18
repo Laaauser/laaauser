@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=600&lines=Olá!+Eu+sou+o+Leo" alt="Olá! Eu sou o Leo animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=600&lines=Olá!+Eu+sou+o+Leo,+seja+bem+vindo+ao+meu+mundinho." alt="Olá! Eu sou o Leo animado" />
 </h2>
 
 
