@@ -20,9 +20,9 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=600&lines=Olá!+Eu+sou+o+Leo" alt="Olá! Eu sou o Leo animado" />
-</h3>
+</h2>
 
 
 <p align="center"> 
