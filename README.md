@@ -45,9 +45,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✌️ &emsp; Sou um polímata, sou curioso e gosto de saber desde o funcionamento de uma televisão a como pintar com tinta aquarela. <br/><br/>
- ❤️ &emsp; Apaixonado por tecnologia sempre estou buscando aprender sobre coisas da aréa.<br/><br/>
- 📧 &emsp; Meu email: levonlemos@gmail.com<br/><br/>
+ 💡 &emsp; Curioso por natureza, adoro descobrir como tudo funciona, da ciência à arte.  <br/><br/>
+ 🔧 &emsp; Investigador de problemas e soluções práticas em diversos campos.  .<br/><br/>
+ ✨ &emsp; Entusiasta de tecnologia, programação, ciência, arte e tudo que desperta curiosidade. <br/><br/>
+ 🚀 &emsp; Sempre em busca de novos conhecimentos e desafios.  <br/><br/>
 
 </p>
 
