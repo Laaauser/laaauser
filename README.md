@@ -31,8 +31,8 @@
 <a href="https://github.com/Laaauser/Analise-de-Compras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=Analise-de-Compras" />
 </a>
-<a href="https://github.com/Laaauser/Analise-de-Compras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Laaauser/FARMACIA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=FARMACIA" />
 </a>
 
 <!-- sobre -->
