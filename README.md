@@ -22,7 +22,7 @@
 <p align="center"> 
   <samp>
     <br>
-    Sou um estudante de programação curioso e sempre disposto a aprender
+   Curioso e atento, busco aprender constantemente e ajudar pessoas a resolver problemas de forma prática e eficiente
     <br>
     <br>
   </samp>
