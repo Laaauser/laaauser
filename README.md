@@ -28,12 +28,6 @@
   </samp>
 </p>
 
-<a href="https://github.com/Laaauser/Analise-de-Compras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=Analise-de-Compras" />
-</a>
-<a href="https://github.com/Laaauser/FARMACIA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=FARMACIA" />
-</a>
 
 <!-- sobre -->
  # Sobre mim
@@ -72,16 +66,12 @@
 
 ## 🌟 Meus Projetos 🌟
 
-<p align="center">
-  <a href="https://github.com/Laaauser/FARMACIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/ username=Laaauser&repo=FARMACIA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-
-  <a href="https://github.com/Laaauser/Analise-de-Compras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/ 
-      username=Laaauser&repo=Analise-de-Compras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</p>
+<a href="https://github.com/Laaauser/Analise-de-Compras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=Analise-de-Compras" />
+</a>
+<a href="https://github.com/Laaauser/FARMACIA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=FARMACIA" />
+</a>
 
 <p align="left">
   <a href="https://github.com/laaauser?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
