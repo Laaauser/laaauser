@@ -22,7 +22,7 @@
 <p align="center"> 
   <samp>
     <br>
-   Curioso e atento, busco aprender constantemente e ajudar pessoas a resolver problemas de forma prática e eficiente
+   Sempre curioso, sempre aprendendo, sempre explorando!!!
     <br>
     <br>
   </samp>
@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leo"/>
  </a>
  
+ <a href="https://instagram.com/laaauser" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Leo" />
+ </a> 
+
  <a href="https://instagram.com/laaauser" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Leo" />
  </a> 
@@ -61,6 +65,10 @@
  🛠️ &emsp; **Ferramentas & Frameworks:** Git, GitHub, VS Code, React (básico) <br/><br/>
  🎨 &emsp; **Design & Criatividade:** Aquarela, UI/UX, Design Thinking, Canva, Photoshop <br/><br/>
  ⚡ &emsp; **Curiosidades & Ciência:** Eletrônica, ciência, automação, filosofia, curiosidades do mundo <br/><br/>
+
+
+
+
 
 </p>
 
