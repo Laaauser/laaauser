@@ -72,6 +72,12 @@
 <a href="https://github.com/Laaauser/FARMACIA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=FARMACIA" />
 </a>
+<a href="https://github.com/Laaauser/Margem-Item">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=Margem-Item" />
+</a>
+<a href="https://github.com/Laaauser/GerenciadorDeTarefas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=GerenciadorDeTarefas" />
+</a>
 
 <p align="left">
   <a href="https://github.com/laaauser?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
