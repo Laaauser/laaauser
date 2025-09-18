@@ -82,7 +82,7 @@
   </a>
 
   <a href="https://github.com/Laaauser/Analise-de-Compras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laaauser&repo=Analise-de-Compras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laaauser&repo=Analise-de-Compras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </p>
 
